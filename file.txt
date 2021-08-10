@@ -1,1 +1,3 @@
 Vaclav has cat.
+Adela has a dog.
+John is stupid.,
