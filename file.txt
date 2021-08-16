@@ -1,6 +1,0 @@
-Vaclav has cat.
-<<<<<<< HEAD
-Tak a ted jsem zvedav co z toho bude.
-=======
-Yes I have
->>>>>>> 423d15ff7fb33c3652183cda529e343915b0374a

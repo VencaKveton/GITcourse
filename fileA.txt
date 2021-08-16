@@ -1,1 +1,1 @@
-Alex has cat and dog.
+This is a content of fileA.txt
