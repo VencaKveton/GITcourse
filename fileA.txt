@@ -1,2 +1,2 @@
 This is a changed content of fileA.txt
-
+to bude prca
