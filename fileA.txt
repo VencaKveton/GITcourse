@@ -1,1 +1,1 @@
-Alex has cat.
+Alex has cat and dog.
