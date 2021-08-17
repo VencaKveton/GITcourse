@@ -1,1 +1,1 @@
-soubor C
+Toto je soubor C
